@@ -1,5 +1,5 @@
 
-> Open this page at [https://saberxtorm.github.io/microbit-makecode-repository/](https://saberxtorm.github.io/microbit-makecode-repository/)
+> Open this page at [https://saberxtorm.github.io/happy-bday-grandma/](https://saberxtorm.github.io/happy-bday-grandma/)
 
 ## Use as Extension
 
@@ -8,7 +8,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/saberxtorm/microbit-makecode-repository** and import
+* search for **https://github.com/saberxtorm/happy-bday-grandma** and import
 
 ## Edit this project ![Build status badge](https://github.com/saberxtorm/microbit-makecode-repository/workflows/MakeCode/badge.svg)
 
@@ -16,7 +16,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/saberxtorm/microbit-makecode-repository** and click import
+* paste **https://github.com/saberxtorm/happy-bday-grandma** and click import
 
 ## Blocks preview
 
