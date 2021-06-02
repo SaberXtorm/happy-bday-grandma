@@ -10,7 +10,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/saberxtorm/happy-bday-grandma** and import
 
-## Edit this project ![Build status badge](https://github.com/saberxtorm/microbit-makecode-repository/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/saberxtorm/happy-bday-grandma/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
